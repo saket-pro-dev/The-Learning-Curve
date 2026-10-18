@@ -2,4 +2,4 @@
 
 This repository is to show my learning curve.
 <br>
-It does not contain any original work.
+It may not contain any original work.
